@@ -1,0 +1,3 @@
+sandLand,-13159,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter\src\resources\imgs\mapMaterial\sandLand.jpg,1,1
+seedLand,-16711885,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter\src\resources\imgs\mapMaterial\seedLand.jpg,1,1
+seed,-16751104,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter\src\resources\imgs\mapMaterial\seed.jpg,1,1

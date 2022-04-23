@@ -1,0 +1,16 @@
+houseWall_1,-10092544,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\houseWall_1.jpg,2,4
+houseWall_2,-10092493,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\houseWall_2.jpg,2,2
+firePlace,-65536,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\firePlace.png,4,4
+bed,-16724737,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\bed.png,2,3
+kitchen,-6724096,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\kitchen.png,14,3
+diningTable,-3368704,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\diningTable.png,3,2
+table,-26368,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\table.png,4,2
+sofa_back,-256,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\sofa_back.png,2,1
+sofa_left,-205,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\sofa_left.png,1,2
+sofa_right,-154,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\sofa_right.png,1,2
+plants_1,-13382656,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\plants_1.png,1,2
+plants_2,-13369549,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\plants_2.png,1,2
+carpet,-52378,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\carpet.png,16,4
+chair,-26215,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\chair.png,2,1
+candle,-13159,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\candle.png,1,2
+piano,-13434829,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\hauntedHouse\piano.png,2,2

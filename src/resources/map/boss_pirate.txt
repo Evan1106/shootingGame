@@ -1,0 +1,13 @@
+ship,-1,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\backgrounds\ship.png,60,40
+littleShip,-26266,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\littleShip.png,4,2
+cannon_down,-13434727,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\cannon_down.png,1,2
+transparent,-3355444,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\transparent.png,1,1
+cannon_up,-10066177,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\cannon_up.png,1,2
+rudder,-6711040,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\rudder.png,2,2
+pirateFlag,-16751104,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\pirateFlag.png,3,3
+woodBox_2,-3381760,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\woodBox_2.png,4,2
+bone,-6710887,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\bone.png,1,1
+ironWire,-26368,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\ironWire.jpg,3,3
+transparent_1,-52480,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\transparent_1.png,7,7
+transparent_2,-6684877,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\transparent_2.png,3,3
+sandBag,-3394561,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_pirate\sandBag.png,2,2

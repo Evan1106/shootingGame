@@ -1,0 +1,10 @@
+lava_1,-26266,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\Boss_Witch\lava_1.jpg,1,1
+lava_2,-26317,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\Boss_Witch\lava_2.jpg,1,1
+statue_goddess,-16777063,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\Boss_Witch\statue_goddess.png,2,4
+statue_dragon,-16724788,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\Boss_Witch\statue_dragon.png,4,3
+column_1,-3355444,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\Boss_Witch\column_1.png,2,4
+column_2,-10066330,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\Boss_Witch\column_2.png,2,4
+fire,-65536,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\Boss_Witch\fire.png,1,2
+dragonBone,-6711040,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\Boss_Witch\dragonBone.png,6,4
+lava_3,-103,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_witch\lava_3.jpg,13,13
+lava_4,-6684775,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\boss_witch\lava_4.jpg,4,4

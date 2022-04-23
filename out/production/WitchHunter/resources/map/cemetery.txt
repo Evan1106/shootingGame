@@ -1,0 +1,11 @@
+stoneWall_1,-16751002,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\stoneWall_1.jpg,1,2
+stoneWall_2,-16737895,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\stoneWall_2.jpg,1,1
+coffin,-6724096,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\coffin.png,2,1
+tombStone,-10066330,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\tombStone.png,1,1
+shadowTree,-10040320,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\shadowTree.png,6,4
+bigTree,-16724992,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\bigTree.png,10,10
+building,-10066177,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\building.png,3,4
+pool,-16737793,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\pool.png,2,2
+wall_1,-6710887,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\wall_1.png,4,2
+wall_2,-3355393,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\wall_2.png,2,2
+wall_3,-6710785,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\cemetery\wall_3.png,1,2

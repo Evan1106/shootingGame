@@ -1,0 +1,17 @@
+shipWall_1,-10092493,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\shipWall_1.jpg,1,2
+shipWall_2,-10079488,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\shipWall_2.jpg,1,1
+wallDecoration,-26368,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\wallDecoration.png,22,4
+captainBone,-16751002,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\captainBone.png,4,2
+table_jewelry,-39424,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\table_jewelry.png,4,3
+table_map,-26317,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\table_map.png,4,3
+table_book,-13261,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\table_book.png,4,3
+shipModel,-39322,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\shipModel.png,2,3
+table_food,-52225,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\table_food.png,4,3
+stuff,-10040065,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\stuff.png,4,3
+table,-26215,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\table.png,5,5
+bottle,-26266,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\bottle.png,1,1
+army,-13159,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\army.png,1,1
+woodBox_1,-6711040,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\woodBox_1.jpg,1,1
+woodBarrel_2,-6724096,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\woodBarrel_2.png,1,1
+woodBarrel_1,-6697984,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\woodBarrel_1.png,2,2
+light,-52,C:\Users\onlyrain\Documents\IdeaProjects\CMoney\InterimReport\Game\WitchHunter_Main\WitchHunter_Main\src\resources\images\mapMaterial\pirateShip\light.png,1,2
